@@ -1,0 +1,24 @@
+
+{
+  "name": "AutoShare",
+  "short_name": "AutoShare",
+  "description": "Premium Peer-to-Peer Car Sharing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f8",
+  "theme_color": "#0d7ff2",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/144/car.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/car.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

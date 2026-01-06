@@ -1,0 +1,7 @@
+{
+  "name": "AutoShare",
+  "description": "A premium peer-to-peer car sharing platform. Find your next ride from real people in your neighborhood.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
